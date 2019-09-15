@@ -1,0 +1,2 @@
+This is my second project in the JavaScript 30 course and it is an actual working clock created in HTML5, CSS3, and vanilla JavaScript. I changed the background image from the original as well as some colors and styling. I also added a a png background to the clock itself so that it would have numbers to read. The hour hand only moves at the start of the hour and stays in one position til the hour changes and then it goes ahead a full hour.
+This site is live at [http://rustiphyde-clock.netlify.com]
